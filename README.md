@@ -12,7 +12,7 @@ Vous pouvez exécuter le programme avec la commande.
 ```bash
 python3 main.py
 ```
-Il vous sera demander de renseigner le NOM et PRENOM d'un enseignant il est important de respecter la nomenclature suivante NOM PRENOM.
+Il vous sera demandé de renseigner le NOM et PRENOM d'un enseignant il est important de respecter la nomenclature suivante NOM PRENOM.
 
 Exemple
 ```bash
