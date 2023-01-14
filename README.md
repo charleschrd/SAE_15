@@ -24,7 +24,7 @@ Le premier permet d'installer les modules nécessaires à l'emploi du programme 
 ```bash
 sh install.sh
 ```
-Il est possible que le programme crée un nombre important de fichier .png et .pdf si il est exécuter plusieurs fois.
+Il est possible que le programme crée un nombre important de fichier .png et .pdf si il est exécuté plusieurs fois.
 
 Le second script permettra alors de supprimer tout ses fichiers (attention à ne pas glisser de fichier .pdf ou .png dans le dossier avant d'éxecuter la commande auquel cas ces fichiers seraient supprimer)
 ```bash
