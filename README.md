@@ -3,9 +3,9 @@
 ## Description
 Les enseignants aiment profiter de leurs vacances de façon optimale. L’objectif de ce projet est
 d’afficher, pour un enseignant donné, l’intitulé, la date et l’heure de leur dernière intervention
-avant chaque période de vacance, ainsi que l’intitulé, la date et l’heure de leur première
+avant chaque période de vacances, ainsi que l’intitulé, la date et l’heure de leur première
 intervention après cette période de vacances, ainsi que le nombre exact de jours complets de
-vacances dont il dispose.
+vacances dont ils disposent.
 
 ## Utilisation
 Vous pouvez exécuter le programme avec la commande.
