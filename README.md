@@ -20,7 +20,7 @@ DUPONT ANTOINE
 ```
 Vous avez à votre disposition deux script bash.
 
-Le premier permet d'installer les modules nécessaires à l'emploie du programme python
+Le premier permet d'installer les modules nécessaires à l'emploi du programme python
 ```bash
 sh install.sh
 ```
